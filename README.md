@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Manjunath Reddy
-- 👀 I’m interested in Dev stuff and DevOps
-- 🌱 I’m currently learning React and Devops
-- 💞️ I’m looking to collaborate on patest tech stack with AI and MI and block chain tech
+- 👀 I’m a Techie and interested in Tech stack app for web and mobile
+- 🌱 I’m currently more into AI & ML along with NLP
 - 📫 How to reach me bmr403 hangout/twitter/skype
 
 <!---
